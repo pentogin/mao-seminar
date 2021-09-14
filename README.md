@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 魔王教授
 エルマス
 わかば
+啓太
 # ディレクトリ構成
 ```
 seminar/
